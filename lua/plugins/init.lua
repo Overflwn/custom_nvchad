@@ -21,7 +21,8 @@ return {
   	opts = {
   		ensure_installed = {
   			"lua-language-server", "stylua",
-  			"html-lsp", "css-lsp" , "prettier", "clangd", "clang-format", "codelldb", "rust-analyzer"
+  			"html-lsp", "css-lsp" , "prettier", "clangd", "clang-format", "codelldb", "rust-analyzer",
+        "zls"
   		},
   	},
   },
